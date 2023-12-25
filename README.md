@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Medhya Goel. This isn't updated that frequently. Visit my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) or my [website]([url](https://medhyagoel.github.io/)) to see what I'm up to.👋
+
+Current projects:
+- Cleansify (cleansify.onrender.com)
+
 
 <!--
 **medhyaGoel/medhyaGoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
