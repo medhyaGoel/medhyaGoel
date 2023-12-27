@@ -2,7 +2,7 @@
 
 Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) or [website]([url](https://medhyagoel.github.io/)) to see what I'm up to.
 
-Current projects:
+Most recent project:
 - Cleansify (cleansify.onrender.com)
 
 
