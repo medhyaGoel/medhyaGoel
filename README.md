@@ -2,8 +2,10 @@
 
 Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) or [website]([url](https://medhyagoel.github.io/)) to see what I'm up to.
 
-Most recent project:
-- Cleansify (cleansify.onrender.com)
+Most recent projects:
+- Cleansify (cleansify.onrender.com) **(FINISHED for now)**
+- Bill Breakdown (WIP)
+- paybac MVP (WIP)
 
 
 <!--
