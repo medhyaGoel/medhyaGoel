@@ -3,9 +3,9 @@
 Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) or [website]([url](https://medhyagoel.github.io/)) to see what I'm up to.
 
 Most recent projects:
-- Cleansify (cleansify.onrender.com) **(FINISHED for now)**
-- Bill Breakdown (WIP)
-- paybac MVP (WIP)
+- paybac MVP
+- Bill Breakdown
+- [Cleansify](cleansify.onrender.com)
 
 
 <!--
