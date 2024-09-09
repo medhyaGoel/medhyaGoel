@@ -1,6 +1,6 @@
 ### Hey, I'm Medhya! 👋
 
-Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) or [website]([url](https://medhyagoel.github.io/)) to see what I'm up to.
+Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) to see what I'm up to.
 
 Most recent projects:
 - [Crossfeed](https://github.com/cisagov/crossfeed/)
