@@ -3,7 +3,7 @@
 Check out my [linkedin]([url](https://www.linkedin.com/in/medhyagoel/)) to see what I'm up to.
 
 Most recent projects:
-- Playing around with "graphic design" to create a clean course website: [POLISCI 33SI](https://github.com/medhyaGoel/MoveFastandFixThingsWebsite)
+- Website for a course that I co-developed and taught: [POLISCI 33SI](https://github.com/medhyaGoel/MoveFastandFixThingsWebsite)
 - Code for a thermal-tracking, radar-using robot dog: [Rescue Pupper](https://github.com/Tofuwang45/Rescue_Pupper)
 - Helping secure open-source software: [Crossfeed](https://github.com/cisagov/crossfeed/)
 - Making it easier to collect data about Truth Social: [Truthbrush](https://github.com/stanfordio/truthbrush)
